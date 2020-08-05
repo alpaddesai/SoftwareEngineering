@@ -9,3 +9,5 @@ All images are either custom by Alpa D Desai or a reference name is included htt
 Most of the images are custom.
 
 ![image](SoftwareDevelopmentCycle.png)
+
+reference: Complete edition SW engineering for real time systems by Jim Cooling
