@@ -1,6 +1,6 @@
 # Software Engineering
 
-The project provides an introduction to system level verification. 
+The project provides an introduction to software engineering
 
 Confidential information is not displayed. Please download the executable in for details. 
 
@@ -10,6 +10,5 @@ Most of the images are custom.
 
 ![image](SoftwareDevelopmentCycle.png)
 
-reference: Complete edition SW engineering for real time systems by Jim Cooling
 
 Additional details please reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming , https://github.com/alpaddesai/Algorithms , https://github.com/alpaddesai/CodingCombinatorialOptimization , https://github.com/alpaddesai/DataStructures , https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp , https://github.com/alpaddesai/ATMRegressionTestSuite , https://github.com/alpaddesai/BigDataDataScienceMachineLearning, https://github.com/alpaddesai/IntroWebDevHealthCareProject, https://github.com/alpaddesai/DataMining , https://github.com/alpaddesai/MicroControllerDrivers ,  https://github.com/alpaddesai/AgileMethodology ,  https://github.com/alpaddesai/CodingRTOS ,  https://github.com/alpaddesai/CompilerDesign, https://github.com/alpaddesai/DatabaseManagementDesign
