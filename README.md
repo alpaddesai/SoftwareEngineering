@@ -16,4 +16,6 @@ Additional details on computer science related projects please reference : https
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement
