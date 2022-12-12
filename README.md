@@ -18,4 +18,4 @@ Additional details on computer science related projects please reference : https
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement2022
+Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement
