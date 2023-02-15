@@ -21,4 +21,3 @@ Additional details on computer science related projects please reference : https
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
-
