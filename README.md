@@ -17,6 +17,7 @@ Additional details on computer science related projects please reference : https
 #### Paid Employment : https://github.com/alpaddesai/AdvancedSoftwareEngineering
 #### Sample Revenue Generating Project: https://github.com/alpaddesai/HW_SW_Integration_ProductSupport
 #### Popular vote project: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_ComputerScienceDept and https://github.com/alpaddesai/GraduateRecordExamTestScores
+#### Admission Letter https://github.com/alpaddesai/GraduateKhouryAdmissionLetter
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
