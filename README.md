@@ -20,6 +20,7 @@ Additional details on computer science related projects please reference : https
 #### Populare Vote Exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_ComputerScienceDept  
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores
 #### Admission Letter: https://github.com/alpaddesai/GraduateKhouryAdmissionLetter
+#### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/CoverLetters
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
