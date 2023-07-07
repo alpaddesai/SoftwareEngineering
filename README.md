@@ -17,7 +17,8 @@ Additional details on computer science related projects please reference : https
 #### Paid Employment: https://github.com/alpaddesai/AdvancedSoftwareEngineering
 #### Sample Revenue Generating Project: https://github.com/alpaddesai/HW_SW_Integration_ProductSupport
 #### Popular Vote Project: https://github.com/alpaddesai/MicrocontrollerDrivers
-#### Populare Vote Topics: Data Structures and Algorithms, popular exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_ComputerScienceDept  
+#### Populare Vote Topics: Data Structures and Algorithms, popular exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_ComputerScienceDept 
+#### Popular Vote Topic: Computer Architecture Exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_CS
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores
 #### Admission Letter: https://github.com/alpaddesai/GraduateKhouryAdmissionLetter
 #### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/SoftwareEng_CoverLetters
