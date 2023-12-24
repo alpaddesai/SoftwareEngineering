@@ -19,7 +19,6 @@ Additional details on computer science related projects please reference : https
 #### Populare Vote Topics: Data Structures and Algorithms, popular exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_ComputerScienceDept 
 #### Popular Vote Topic: Computer Architecture Exam: https://github.com/alpaddesai/GraduateAptitudeTestEngineering_CS
 #### Entrance Test: https://github.com/alpaddesai/GraduateRecordExamTestScores
-#### Admission Letter: https://github.com/alpaddesai/GraduateKhouryAdmissionLetter
 #### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/SoftwareEng_CoverLetters
 #### Learning with Certifications https://github.com/alpaddesai/UdemyCertificationsComputerScience
 
